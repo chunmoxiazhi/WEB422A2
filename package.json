@@ -1,0 +1,26 @@
+{
+  "name": "web422a1",
+  "version": "1.0.0",
+  "description": "Assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node salesAPI/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "xiao"
+  ],
+  "author": "Xiao Xiao",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {}
+}
